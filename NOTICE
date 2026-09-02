@@ -1,0 +1,21 @@
+gps_traccar — curated operations notes for the Traccar GPS tracking platform
+
+This repository contains documentation copied from and derived from the
+Traccar project (https://www.traccar.org/documentation/), which is
+Copyright (c) Anton Tananaev and Traccar contributors and is licensed under
+the Apache License, Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0).
+
+The topic files at the repository root (for example configurationfile.md,
+secureconnection.md, docker.md, geofences.md, notification.md and the other
+per-feature pages) reproduce upstream Traccar documentation with minimal or no
+changes and remain the work of the Traccar project. Traccar itself is
+available at https://github.com/traccar/traccar (server) and
+https://github.com/traccar/traccar-web (web app).
+
+The wrapper material added here — README.md, ARCHITECTURE.md, INSTALL.md,
+OPERATIONS_RUNBOOK.md, IMPLEMENTATION_NOTES.md, CHANGELOG.md, the docs/ MkDocs
+site and mkdocs.yml — is Copyright (c) 2026 Quinn Vidal and is released under
+the same Apache License, Version 2.0.
+
+Traccar is a trademark of its respective owner. This repository is not
+affiliated with or endorsed by the Traccar project.
