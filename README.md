@@ -5,6 +5,17 @@ This repository is a curated, production-focused set of notes for running and op
 
 Traccar itself is an open-source GPS tracking stack with a Java server (Netty/Jetty), a React web app, and mobile clients. It supports a large catalog of hardware GPS trackers plus the Traccar Client mobile app, and can be deployed on-prem or in the cloud.
 
+Attribution and license
+-----------------------
+Most of the per-topic pages in this repository are copied from the official
+[Traccar documentation](https://www.traccar.org/documentation/), Copyright (c)
+Anton Tananaev and Traccar contributors, Apache License 2.0. Credit for that
+material belongs entirely to the [Traccar project](https://github.com/traccar/traccar).
+The architecture summary, install guide, runbook, and MkDocs site are my own
+additions and are released under the same Apache License 2.0. See `NOTICE` for
+the file-level breakdown and `LICENSE` for the license text. This is an
+unofficial companion and is not affiliated with Traccar.
+
 What this repository covers
 ---------------------------
 - High-level architecture: Netty pipeline, protocol handling, database layer, API, and web app (see `ARCHITECTURE.md`).
